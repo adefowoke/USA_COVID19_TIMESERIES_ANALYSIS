@@ -14,3 +14,5 @@ New York Times would like to curate an updated visualization based on the COVID-
 
 <details>
 <summary>Tasks</summary>
+You've been hired to come in as a data analyst working for New York Times. The New York Times is planning to publish an updated Covid statistics article in their next paper. They need an updated visual based on the newest set of data.  You will be working closely with Amala Laray, Chief Content Officer to complete this project.
+</details>
