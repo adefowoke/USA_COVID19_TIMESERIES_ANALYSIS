@@ -4,7 +4,7 @@
 
 
 <div align="center">
-<img src="globalstore.jpg"  width="400" height="400" />
+<img src="c19.jpg"  width="400" height="400" />
 </div>
                             
 <details>
