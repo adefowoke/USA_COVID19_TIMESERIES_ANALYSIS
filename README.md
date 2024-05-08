@@ -1,10 +1,8 @@
-### This is a time series analysis of the Covid19 in the USA using PowerBI
-
 <h2 align="center"> USA_COVID19_TIMESERIES_ANALYSIS (Ongoing Project)</h2>
 
 
 <div align="center">
-<img src="c19.jpg"  width="400" height="400" />
+<img src="c19.jpg"  width="900" height="400" />
 </div>
                             
 <details>
