@@ -9,8 +9,7 @@
                             
 <details>
 <summary>Problem Statement</summary>
-Global Super Store is an online supergiant store that has worldwide operations. This store takes orders and delivers products across the globe and deals with all the major product categories like furniture, office supplies technology, and so on.
-As a Sales Manager of this store, you want to analyze the sales of the products based on provided historical data, this analysis will help you to plan your inventory and business processes accordingly. Also, to know the product’s and customer’s behavior.
+New York Times would like to curate an updated visualization based on the COVID-19 data set for an upcoming recap article. This data contains the COVID Dataset for US Counties for the recent month and would like to see trends and recap by US county and state, cases, and deaths.
 </details>
 
 <details>
